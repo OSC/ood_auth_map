@@ -1,3 +1,5 @@
+## Moved to https://github.com/OSC/ondemand/tree/master/ood_auth_map
+
 # ood_auth_map
 
 ![GitHub Release](https://img.shields.io/github/release/osc/ood_auth_map.svg)
